@@ -2,7 +2,7 @@
 
 Welcome to my profile!
 
-## A little about me, with python
+## A little about me
 
 I'm a random junior pythonist
 
@@ -17,8 +17,22 @@ me = {
 print('nobody cares')
 ```
 
-## Social media
+## Social Media
 
 - [Twitter](https://twitter.com/maturanei)
 - [Mastodon](https://mastodon.social/@mathurana)
 - [Codeberg](https://codeberg.org/mathurana)
+
+## Some Skills
+
+### Frontend
+
+- HTML
+- CSS
+- Javascript
+
+### Backend
+
+- NodeJS
+- Python
+- MySQL
