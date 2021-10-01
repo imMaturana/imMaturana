@@ -21,7 +21,7 @@ print('nobody cares')
 
 - [Twitter](https://twitter.com/maturanei)
 - [Mastodon](https://mastodon.social/@mathurana)
-- [Codeberg](https://codeberg.org/mathurana)
+- [Codeberg](https://codeberg.org/maturana)
 
 ## Some Skills
 
