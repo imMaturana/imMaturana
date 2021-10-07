@@ -4,7 +4,7 @@ Welcome to my profile!
 
 ## A little about me
 
-I'm a random junior pythonist
+I'm a little pythonist
 
 ```py
 me = {
@@ -20,7 +20,7 @@ print('nobody cares')
 ## Social Media
 
 - [Twitter](https://twitter.com/maturanei)
-- [Mastodon](https://mastodon.social/@mathurana)
+- [Mastodon](https://mstdn.social/@maturana)
 - [Codeberg](https://codeberg.org/maturana)
 
 ## Some Skills
