@@ -10,7 +10,7 @@ I'm a little pythonist
 me = {
     'fullname': 'Gabriel Maturana Teixeira',
     'age': 17,
-    'pronouns': ('he', 'him'),
+    'hobbies': ['study','listen song'],
     'country': 'Brazil'
 }
 
