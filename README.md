@@ -10,11 +10,11 @@ I'm a little pythonist
 me = {
     'fullname': 'Gabriel Maturana Teixeira',
     'age': 17,
-    'hobbies': ['study','listen song'],
+    'hobbies': ['study', 'listen song'],
     'country': 'Brazil'
 }
 
-print('nobody cares')
+print('I love open-source!')
 ```
 
 ## Social Media
