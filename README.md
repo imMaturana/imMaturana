@@ -14,7 +14,7 @@ me = {
     'country': 'Brazil'
 }
 
-print('I love open-source!')
+print('I love open source!')
 ```
 
 ## Social Media
