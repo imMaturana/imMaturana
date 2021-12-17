@@ -22,6 +22,7 @@ print('I love open source!')
 - [Twitter](https://twitter.com/maturanei)
 - [Mastodon](https://mstdn.social/@maturana)
 - [Codeberg](https://codeberg.org/maturana)
+- [GitLab](https://gitlab.com/maturana)
 
 ## Some Skills
 
