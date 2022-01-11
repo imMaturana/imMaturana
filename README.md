@@ -19,10 +19,10 @@ print('I love open source!')
 
 ## Social Media
 
-- [Twitter](https://twitter.com/maturanei)
+- [Twitter](https://twitter.com/its_not_gab)
 - [Mastodon](https://mstdn.social/@maturana)
-- [Codeberg](https://codeberg.org/maturana)
-- [GitLab](https://gitlab.com/maturana)
+- [Codeberg](https://codeberg.org/itsnotgab)
+- [GitLab](https://gitlab.com/itsnotgab)
 
 ## Some Skills
 
