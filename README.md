@@ -21,8 +21,8 @@ print('I love open source!')
 
 - [Twitter](https://twitter.com/its_not_gab)
 - [Mastodon](https://mstdn.social/@maturana)
-- [Codeberg](https://codeberg.org/itsnotgab)
-- [GitLab](https://gitlab.com/itsnotgab)
+- [Codeberg](https://codeberg.org/imMaturana)
+- [GitLab](https://gitlab.com/imMaturana)
 
 ## Some Skills
 
