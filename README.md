@@ -19,7 +19,6 @@ print('I love open source!')
 
 ## Social Media
 
-- [Twitter](https://twitter.com/its_not_gab)
 - [Mastodon](https://mstdn.social/@maturana)
 - [Codeberg](https://codeberg.org/imMaturana)
 - [GitLab](https://gitlab.com/imMaturana)
