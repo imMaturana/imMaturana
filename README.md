@@ -4,17 +4,25 @@ Welcome to my profile!
 
 ## A little about me
 
-I'm a little pythonist
-
-```py
-me = {
-    'fullname': 'Gabriel Maturana Teixeira',
-    'age': 17,
-    'hobbies': ['study', 'listen song'],
-    'country': 'Brazil'
+```rs
+struct People {
+    fullname: &str,
+    age: u32,
+    email: &str,
+    hobbies: Vec<&str>
 }
 
-print('I love open source!')
+fn main() {
+    let me = People {
+        fullname: "Gabriel Maturana",
+        age: 17,
+        email: "maturana.te@gmail.com",
+        hobbies: vec!["study", "listen to music"]
+    };
+
+    println!("I'm {}, welcome to my profile!", me.fullname);
+}
+
 ```
 
 ## Social Media
@@ -22,17 +30,3 @@ print('I love open source!')
 - [Mastodon](https://mstdn.social/@maturana)
 - [Codeberg](https://codeberg.org/imMaturana)
 - [GitLab](https://gitlab.com/imMaturana)
-
-## Some Skills
-
-### Frontend
-
-- HTML
-- CSS
-- Javascript
-
-### Backend
-
-- NodeJS
-- Python
-- MySQL
