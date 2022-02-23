@@ -5,7 +5,7 @@ Welcome to my profile!
 ## A little about me
 
 ```rs
-struct People {
+struct Person {
     fullname: &str,
     age: u32,
     email: &str,
@@ -13,7 +13,7 @@ struct People {
 }
 
 fn main() {
-    let me = People {
+    let me = Person {
         fullname: "Gabriel Maturana",
         age: 17,
         email: "maturana.te@gmail.com",
