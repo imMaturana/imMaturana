@@ -1,6 +1,4 @@
-# Welcome 👋
-
-Welcome to my profile!
+# Welcome, I'm Gabriel Maturana 👋
 
 ## A little about me
 
