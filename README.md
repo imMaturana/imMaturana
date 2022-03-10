@@ -9,7 +9,6 @@ fn main() {
     let mut me = Human {
         fullname: "Gabriel Maturana",
         age: 17,
-        email: "maturana.te@gmail.com",
         hobbies: vec!["study", "listen to music"]
     };
 
