@@ -7,7 +7,7 @@ use earth::Human;
 
 fn main() {
     let mut me = Human {
-        fullname: "Gabriel Maturana",
+        fullname: String::from("Gabriel Maturana"),
         age: 17,
         hobbies: vec!["study", "listen to music"]
     };
