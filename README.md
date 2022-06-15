@@ -9,7 +9,8 @@ fn main() {
     let mut me = Human {
         fullname: String::from("Gabriel Maturana Teixeira"),
         age: 17,
-        hobbies: vec!["study", "listen music"]
+        hobbies: vec!["study", "listen to music"],
+        skills: vec!["python", "golang"]
     };
 
     println!("I'm {}, welcome to my profile!", me.fullname);
