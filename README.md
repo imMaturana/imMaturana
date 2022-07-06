@@ -7,8 +7,8 @@ use earth::Human;
 
 fn main() {
     let mut me = Human {
-        fullname: "Gabriel Maturana Teixeira",
-        age: 17,
+        fullname: "Gabriel Maturana",
+        age: 18,
         hobbies: vec!["study", "listen to music"],
         skills: vec!["python", "golang"]
     };
