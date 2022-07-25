@@ -18,8 +18,13 @@ fn main() {
 
 ```
 
-## Social Media
+## My other repos
 
-- [Mastodon](https://mstdn.social/@maturana)
 - [Codeberg](https://codeberg.org/imMaturana)
 - [GitLab](https://gitlab.com/imMaturana)
+
+## Social Media
+
+- [Reddit](https://reddit.com/user/maturanei)
+- [Mastodon](https://mstdn.social/@maturana)
+- [Lemmy](https://lemmy.ml/u/maturana)
