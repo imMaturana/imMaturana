@@ -25,6 +25,6 @@ fn main() {
 
 ## Social Media
 
-- [Reddit](https://reddit.com/user/maturanei)
+- [Matrix](https://matrix.to/#/@maturana:matrix.org)
 - [Mastodon](https://mstdn.social/@maturana)
 - [Lemmy](https://lemmy.ml/u/maturana)
