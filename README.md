@@ -28,3 +28,5 @@ fn main() {
 - [Matrix](https://matrix.to/#/@maturana:matrix.org)
 - [Mastodon](https://mstdn.social/@maturana)
 - [Lemmy](https://lemmy.ml/u/maturana)
+
+Public Key Fingerprint: `9A8E 97B9 C53E E9BD 4E72  7A6F 3733 396A 37C5 9C0D`
