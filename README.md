@@ -25,7 +25,7 @@ fn main() {
 
 ## Social Media
 
-- [Matrix](https://matrix.to/#/@maturana:matrix.org)
+- [Matrix](https://matrix.to/#/@anarutam:matrix.org)
 - [Mastodon](https://mstdn.social/@maturana)
 - [Lemmy](https://lemmy.ml/u/maturana)
 
