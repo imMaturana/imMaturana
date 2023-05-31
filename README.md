@@ -29,4 +29,7 @@ fn main() {
 - [Mastodon](https://bolha.us/@maturana)
 - [Lemmy](https://lemmy.ml/u/maturana)
 
-Public Key Fingerprint: `9A8E 97B9 C53E E9BD 4E72  7A6F 3733 396A 37C5 9C0D`
+## Public Key Fingerprint 
+```
+EA58 0536 2531 5448 5E99  D551 E2B1 32B3 02DE B5AB
+```
