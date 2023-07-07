@@ -2,20 +2,24 @@
 
 ## A little about me
 
-```rs
-use earth::Human;
-
-fn main() {
-    let mut me = Human {
-        fullname: "Gabriel Maturana",
-        age: 18,
-        hobbies: vec!["study", "listen to music"],
-        skills: vec!["python", "golang"]
-    };
-
-    println!("I'm {}, welcome to my profile!", me.fullname);
+```json
+{
+  "fullname": "Gabriel Maturana", 
+  "hobbies": ["study", "listening to music", "gym"],
+  "skills": ["python", "mariadb"],
+  "currentlyStudying": ["fastapi", "postgresql"],
+  "interests": [
+    "open source",
+    "linux",
+    "data science",
+    "data analysis"
+    "math",
+    "statistics",
+    "privacy",
+    "encryption",
+    "homelab"
+  ]
 }
-
 ```
 
 ## My other repos
@@ -29,7 +33,10 @@ fn main() {
 - [Mastodon](https://bolha.us/@maturana)
 - [Lemmy](https://lemmy.ml/u/maturana)
 
-## Public Key Fingerprint 
+## Public Key Fingerprint
+
+> Please, don't send me illegal stuff 💀
+
 ```
 EA58 0536 2531 5448 5E99  D551 E2B1 32B3 02DE B5AB
 ```
