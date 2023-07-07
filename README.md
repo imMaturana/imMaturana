@@ -12,7 +12,7 @@
     "open source",
     "linux",
     "data science",
-    "data analysis"
+    "data analysis",
     "math",
     "statistics",
     "privacy",
