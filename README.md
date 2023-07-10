@@ -35,8 +35,6 @@
 
 ## Public Key Fingerprint
 
-> Please, don't send me illegal stuff 💀
-
 ```
 EA58 0536 2531 5448 5E99  D551 E2B1 32B3 02DE B5AB
 ```
