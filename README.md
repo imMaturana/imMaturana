@@ -35,7 +35,7 @@
 
 ## PGP
 
-Do you want to send me a private message? Here's my public key.
+Want to send me a private message? Here's my public key.
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
