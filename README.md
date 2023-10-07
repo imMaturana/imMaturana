@@ -5,7 +5,7 @@
 ```json
 {
   "fullname": "Gabriel Maturana", 
-  "hobbies": ["study", "listening to music", "gym"],
+  "hobbies": ["study", "listen to music", "gym"],
   "skills": ["python", "mariadb"],
   "currentlyStudying": ["fastapi", "postgresql"],
   "interests": [
