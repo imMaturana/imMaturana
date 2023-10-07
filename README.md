@@ -11,6 +11,7 @@
   "interests": [
     "open source",
     "linux",
+    "devops",
     "data science",
     "data analysis",
     "math",
