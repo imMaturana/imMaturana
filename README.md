@@ -37,8 +37,8 @@
 
 ## Public keys
 
-- [age](https://gist.githubusercontent.com/imMaturana/f82a90541a788bd85b6b0d67ee0186f1/raw/742813f782decabe8b2b8b65bdfdb29605819e59/age-pubkey.txt)
-- [minisign](https://gist.githubusercontent.com/imMaturana/3d2e474c71ccbd85d3a0b0538afa39c1/raw/506e6b3e27c72bec39d1117949f88cd65c2ba39c/minisign.pub)
+- [age](https://codeberg.org/imMaturana/public-keys/raw/branch/master/age-pubkey.txt)
+- [minisign](https://codeberg.org/imMaturana/public-keys/raw/branch/master/minisign.pub)
 
 As I'm using third-party email services (Google, Microsoft, ProtonMail), consider using encryption when messaging me.
 
