@@ -23,9 +23,10 @@
 }
 ```
 
-## My other repos
+## My repos
 
 - [Codeberg](https://codeberg.org/imMaturana)
+- [GitHub](https://github.com/imMaturana)
 - [GitLab](https://gitlab.com/imMaturana)
 
 ## Social Media
