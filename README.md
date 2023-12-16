@@ -39,6 +39,7 @@ You can also find me on `#libera`, just `/msg maturana hi`, I'll _prolly_ be onl
 
 ## Public keys
 
+- [GPG](https://codeberg.org/imMaturana/public-keys/raw/branch/master/public-key.gpg)
 - [age](https://codeberg.org/imMaturana/public-keys/raw/branch/master/age-pubkey.txt)
 - [minisign](https://codeberg.org/imMaturana/public-keys/raw/branch/master/minisign.pub)
 
