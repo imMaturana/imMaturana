@@ -44,5 +44,3 @@ _Decentralize the web._
 - [I2P](https://geti2p.net)
 - [Yggdrasil](https://yggdrasil-network.github.io)
 - [IPFS](https://ipfs.tech)
-
-age1k7juaxac90cav2tw2lxna4z6u5xdul2x37us400zz53akhyyeflsxmu5f3
