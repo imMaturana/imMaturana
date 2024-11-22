@@ -31,6 +31,11 @@
 - [SimpleX Chat](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2Fhejn2gVIqNU6xjtGM3OwQeuk8ZEbDXVJXAlnSBJBWUA%3D%40smp16.simplex.im%2FOXi9neWwsBANzeNF1RxK4xlgHJF1h3mh%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAr3U86GQYeQgt5LiwQBuvrkw2nfEqSLbgkoOyO68JexY%253D%26srv%3Dp3ktngodzi6qrf7w64mmde3syuzrv57y55hxabqcq3l5p6oi7yzze6qd.onion)
 - [Mastodon](https://bolha.us/@maturana)
 
+## Public keys
+
+- [age](./age.pub)
+- [minisign](./minisign.pub)
+
 ---
 
 _Decentralize the web._
