@@ -6,7 +6,6 @@
 {
   "fullname": "Gabriel Maturana", 
   "skills": ["python", "mariadb"],
-  "currentlyStudying": ["fastapi", "postgresql"],
   "interests": [
     "open source",
     "linux",
