@@ -27,8 +27,8 @@
 
 ## Reach me
 
-- [Delta Chat](https://i.delta.chat/#306DC3569A95BB2FA339B3F156BAF7E4ABB2FEF6&a=kaq7a6cnd%40arcanechat.me&n=Maturana&i=sJqHksOy_-U2PQLuSI5TkG57&s=rFkMx5FoUuIX2qbsN7xT9cLb)
-- [XMPP](xmpp:maturana@conversations.im?omemo-sid-1715040596=eb99529df97662685e6640b15edb7d42f420d5699b7445c78dc8989612233760)
+- [SimpleX Chat](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FZKe4uxF4Z_aLJJOEsC-Y6hSkXgQS5-oc442JQGkyP8M%3D%40smp17.simplex.im%2FcJt94k1fFgDP10jXXc8xaMhs2NZUgTUk%23%2F%3Fv%3D1-4%26dh%3DMCowBQYDK2VuAyEAYTK3viKqqpjs-oI8GfPCj6Ovld9s2V34FzqnS8kCHFI%253D%26q%3Dc%26srv%3Dogtwfxyi3h2h5weftjjpjmxclhb5ugufa5rcyrmg7j4xlch7qsr5nuqd.onion)
+- [Matrix](https://matrix.to/#/@maturana.me:matrix.org)
 - [Email](mailto:goal-dial-scalded@duck.com)
 - [Mastodon](https://bolha.us/@maturana)
 
